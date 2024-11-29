@@ -1,0 +1,119 @@
+
+[races]
+
+	[races.evolutionEPRequirements]
+		#The amount of EP needed to evolve into a Soul Shrieker
+		#Range: 0.0 ~ 1.0E9
+		epToSoulShrieker = 4000.0
+		#The amount of EP needed to evolve into a Warden
+		#Range: 0.0 ~ 1.0E9
+		epToWarden = 50000.0
+		#The amount of EP needed to evolve into a Soul Aberration
+		#Range: 0.0 ~ 1.0E9
+		epToSoulAberration = 400000.0
+		#The amount of EP needed to evolve into a Reaper Aberration
+		#Range: 0.0 ~ 1.0E9
+		epToReaperAberration = 2000000.0
+		#The amount of EP needed to evolve into a Enflamed Perforator
+		#Range: 0.0 ~ 1.0E9
+		epToEnflamedPerforator = 3000.0
+		#The Multiplier for enflamed perforator ore eaten, percentage gain caps at 50
+		#Range: 0.0 ~ 1.0E9
+		blazeEssenceForEnflamedPerforator = 20.0
+		#The amount of EP needed to evolve into a Molten Perforator
+		#Range: 0.0 ~ 1.0E9
+		epToMoltenPerforator = 50000.0
+		#The amount of EP needed to evolve into a Enflamed Aberration
+		#Range: 0.0 ~ 1.0E9
+		epToEnflamedAberration = 400000.0
+		#The amount of EP needed to evolve into a Molten Aberration
+		#Range: 0.0 ~ 1.0E9
+		epToMoltenAberration = 2000000.0
+		#The amount of EP needed to evolve into an Insectar
+		#Range: 0.0 ~ 1.0E9
+		epToInsectar = 10000.0
+		#The amount of EP needed to evolve into a Divine Wolf
+		#Range: 0.0 ~ 1.0E9
+		epToDivineInsect = 2000000.0
+		#The amount of EP needed to evolve into a Pixie
+		#Range: 0.0 ~ 1.0E9
+		epToPixie = 10000.0
+		#The amount of EP needed to evolve into a Dryad
+		#Range: 0.0 ~ 1.0E9
+		epToDryad = 100000.0
+		#The amount of EP needed to evolve into a Medium Spirit
+		#Range: 0.0 ~ 1.0E9
+		epToMediumSpirit = 10000.0
+		#The amount of EP needed to evolve into a Greater Spirit
+		#Range: 0.0 ~ 1.0E9
+		epToGreaterSpirit = 250000.0
+		#The amount of EP needed to evolve into a Spirit Lord
+		#Range: 0.0 ~ 1.0E9
+		epToSpiritLord = 1000000.0
+		#The amount of EP needed to evolve into an Elemental Queen
+		#Range: 0.0 ~ 1.0E9
+		epToElementalQueen = 2000000.0
+		#The amount of EP needed to evolve into a Dark Fang
+		#Range: 0.0 ~ 1.0E9
+		epToDarkFang = 10000.0
+		#The amount of EP needed to evolve into a Mystic Dark Fang
+		#Range: 0.0 ~ 1.0E9
+		epToMysticDarkFang = 100000.0
+		#The amount of EP needed to evolve into a Light Fang
+		#Range: 0.0 ~ 1.0E9
+		epToLightFang = 10000.0
+		#The amount of EP needed to evolve into a Mystic Light Fang
+		#Range: 0.0 ~ 1.0E9
+		epToMysticLightFang = 100000.0
+		#The amount of EP needed to evolve into a Magic Fang
+		#Range: 0.0 ~ 1.0E9
+		epToMagicFang = 10000.0
+		#The amount of EP needed to evolve into a Mystic Magic Fang
+		#Range: 0.0 ~ 1.0E9
+		epToMysticMagicFang = 100000.0
+		#The amount of EP needed to evolve into a Mystic Red Fang
+		#Range: 0.0 ~ 1.0E9
+		epToRedFang = 100000.0
+
+	[races.evolutionSkillRequirements]
+		#The Skill needed to evolve into a  Magic Fang
+		skillForMagicFang = "tensura:magic_jamming"
+		#The skill needed to evolve into a Dark fang
+		skillForDarkFang = "tensura:darkness_transform"
+		#The mastery required for the Magic Fang Evolution
+		#Range: > 0
+		masteryForMagicFang = 500
+		#The mastery required for the Dark Fang Evolution
+		#Range: > 0
+		masteryForDarkFang = 100
+		#The skill needed to evolve into a Light Fang
+		skillForLightFang = "tensura:light_transform"
+		#The mastery required for the Light Fang Evolution
+		#Range: > 0
+		masteryForLightFang = 100
+		#The skill needed to evolve into a Red Fang
+		skillForRedFang = "tensura:flame_manipulation"
+		#The mastery required for the Red Fang Evolution
+		#Range: > 0
+		masteryForRedFang = 500
+
+	[races.Dragonoid]
+		#Minimum Possible EP for Dragonoid
+		#Range: 0.0 ~ 1.0E9
+		DragonoidMinEP = 10000.0
+		#Maximum Possible EP for Dragonoid
+		#Range: 0.0 ~ 1.0E9
+		DragonoidMaxEP = 2000000.0
+		#Amount of EP required for 15 HP Gained
+		#Range: 0.0 ~ 1.0E9
+		DragonoidHpIncrease = 5000.0
+		#Amount of EP required for 0.05 attack damage Gained
+		#Range: 0.0 ~ 1.0E9
+		DragonoidDmgIncrease = 20000.0
+		#How much EP is required for a 0.05 Sprint speed Increase for Dragonoid
+		#Range: 0.0 ~ 1.0E9
+		DragonoidsprintspeedIncrease = 10000.0
+		#How much EP is required for a 0.1 Attack speed Increase for Dragonoid
+		#Range: 0.0 ~ 1.0E9
+		DragonoidatkspeedIncrease = 100000.0
+
